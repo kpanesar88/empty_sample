@@ -1,0 +1,542 @@
+[
+  {
+    "id": 1,
+    "company": "MapleTech Solutions",
+    "job_title": "Software Developer Intern",
+    "sender": "careers@mapletech.com",
+    "subject": "Update on your application for Software Developer Intern",
+    "body": "Thank you for your interest in MapleTech Solutions. After careful consideration, we have decided not to move forward with your application at this time.",
+    "status": "rejected"
+  },
+  {
+    "id": 2,
+    "company": "NorthPeak Systems",
+    "job_title": "Embedded Systems Intern",
+    "sender": "recruiting@northpeak.ca",
+    "subject": "Next Steps - Embedded Systems Intern",
+    "body": "We were impressed with your background and would like to invite you to the next stage of the hiring process.",
+    "status": "next_step"
+  },
+  {
+    "id": 3,
+    "company": "ByteBridge",
+    "job_title": "Junior Backend Developer",
+    "sender": "jobs@bytebridge.io",
+    "subject": "Application Status Update",
+    "body": "We appreciate the time you invested in applying. At this moment, we have chosen to move forward with other candidates.",
+    "status": "rejected"
+  },
+  {
+    "id": 4,
+    "company": "Voltware",
+    "job_title": "Firmware Engineering Intern",
+    "sender": "talent@voltware.com",
+    "subject": "Interview Invitation - Firmware Engineering Intern",
+    "body": "Thank you for applying to Voltware. We would like to schedule a technical interview with you as the next step.",
+    "status": "next_step"
+  },
+  {
+    "id": 5,
+    "company": "CloudAxis",
+    "job_title": "Frontend Developer Intern",
+    "sender": "hiring@cloudaxis.dev",
+    "subject": "Regarding your recent application",
+    "body": "Thank you for your application. We regret to inform you that we will not be proceeding with your candidacy for this role.",
+    "status": "rejected"
+  },
+  {
+    "id": 6,
+    "company": "CircuitHive",
+    "job_title": "Hardware Validation Intern",
+    "sender": "recruitment@circuithive.ai",
+    "subject": "Next Stage Confirmation",
+    "body": "Your application has been shortlisted, and we would like to move you forward to the next step.",
+    "status": "next_step"
+  },
+  {
+    "id": 7,
+    "company": "DataSprout",
+    "job_title": "Data Analyst Intern",
+    "sender": "careers@datasprout.com",
+    "subject": "Application Outcome",
+    "body": "After reviewing your application, we have decided not to continue with your candidacy.",
+    "status": "rejected"
+  },
+  {
+    "id": 8,
+    "company": "NovaStack",
+    "job_title": "Full Stack Developer Intern",
+    "sender": "talent@novastack.io",
+    "subject": "Action Required: Schedule Your Interview",
+    "body": "We are excited to invite you to the next step of our recruitment process.",
+    "status": "next_step"
+  },
+  {
+    "id": 9,
+    "company": "AeroLogic",
+    "job_title": "Systems Engineering Intern",
+    "sender": "jobs@aerologic.ca",
+    "subject": "Update on your application",
+    "body": "We appreciate your interest in AeroLogic. At this time, we have decided to move forward with other applicants.",
+    "status": "rejected"
+  },
+  {
+    "id": 10,
+    "company": "PixelForge",
+    "job_title": "Software QA Intern",
+    "sender": "hiring@pixelforge.co",
+    "subject": "You have been selected for the next round",
+    "body": "Thank you for applying. We are pleased to let you know that you have been selected to proceed to the next round.",
+    "status": "next_step"
+  },
+  {
+    "id": 11,
+    "company": "GreenCircuit",
+    "job_title": "Electrical Engineering Intern",
+    "sender": "careers@greencircuit.ca",
+    "subject": "Application Review Complete",
+    "body": "Thank you for your interest. We will not be moving forward with your application at this time.",
+    "status": "rejected"
+  },
+  {
+    "id": 12,
+    "company": "LaunchLayer",
+    "job_title": "DevOps Intern",
+    "sender": "recruiting@launchlayer.io",
+    "subject": "Next Step in Our Hiring Process",
+    "body": "We would like to invite you to a screening interview as the next stage of the process.",
+    "status": "next_step"
+  },
+  {
+    "id": 13,
+    "company": "BluePeak Analytics",
+    "job_title": "Machine Learning Intern",
+    "sender": "jobs@bluepeak.ai",
+    "subject": "Your application with BluePeak Analytics",
+    "body": "After consideration, we have chosen not to proceed with your application for this position.",
+    "status": "rejected"
+  },
+  {
+    "id": 14,
+    "company": "CoreLoop",
+    "job_title": "Software Engineering Intern",
+    "sender": "talent@coreloop.dev",
+    "subject": "Interview Availability Request",
+    "body": "We enjoyed reviewing your application and would like to move you to the next step with an interview.",
+    "status": "next_step"
+  },
+  {
+    "id": 15,
+    "company": "Quantum Harbor",
+    "job_title": "Research Assistant Intern",
+    "sender": "careers@quantumharbor.com",
+    "subject": "Decision on your application",
+    "body": "We appreciate your interest in our team, but we are moving ahead with other candidates.",
+    "status": "rejected"
+  },
+  {
+    "id": 16,
+    "company": "TerraNet",
+    "job_title": "Network Engineering Intern",
+    "sender": "hiring@terranet.ca",
+    "subject": "Invitation to Continue",
+    "body": "We would like to continue with your application and invite you to the next round.",
+    "status": "next_step"
+  },
+  {
+    "id": 17,
+    "company": "FusionFrame",
+    "job_title": "UI Developer Intern",
+    "sender": "jobs@fusionframe.io",
+    "subject": "Status of your application",
+    "body": "Thank you for applying. We regret to inform you that you were not selected for further consideration.",
+    "status": "rejected"
+  },
+  {
+    "id": 18,
+    "company": "MicroPulse",
+    "job_title": "Embedded Firmware Intern",
+    "sender": "recruitment@micropulse.tech",
+    "subject": "Please choose an interview slot",
+    "body": "We would like to move you forward and schedule the next step in our hiring process.",
+    "status": "next_step"
+  },
+  {
+    "id": 19,
+    "company": "Arctic Byte",
+    "job_title": "Cloud Support Intern",
+    "sender": "careers@arcticbyte.com",
+    "subject": "Application Update from Arctic Byte",
+    "body": "We appreciate your application. Unfortunately, we will not be moving forward at this time.",
+    "status": "rejected"
+  },
+  {
+    "id": 20,
+    "company": "SignalPath",
+    "job_title": "Electronics Intern",
+    "sender": "talent@signalpath.io",
+    "subject": "Next Round Invitation",
+    "body": "Your profile stood out to us, and we would like to invite you to the next stage of evaluation.",
+    "status": "next_step"
+  },
+  {
+    "id": 21,
+    "company": "BrightScale",
+    "job_title": "Backend Developer Intern",
+    "sender": "recruiting@brightscale.dev",
+    "subject": "Thank you for applying",
+    "body": "After reviewing your application, we have decided to continue with other applicants.",
+    "status": "rejected"
+  },
+  {
+    "id": 22,
+    "company": "CrestPoint Labs",
+    "job_title": "Software Test Intern",
+    "sender": "jobs@crestpointlabs.com",
+    "subject": "You are moving to the next step",
+    "body": "We are happy to inform you that your application has advanced to the next step.",
+    "status": "next_step"
+  },
+  {
+    "id": 23,
+    "company": "HexaNova",
+    "job_title": "Computer Vision Intern",
+    "sender": "careers@hexanova.ai",
+    "subject": "Hiring Process Update",
+    "body": "Thank you for your interest. We are unable to proceed with your application at this time.",
+    "status": "rejected"
+  },
+  {
+    "id": 24,
+    "company": "RidgeLine Tech",
+    "job_title": "Platform Engineering Intern",
+    "sender": "hiring@ridgeline.tech",
+    "subject": "Next Steps with RidgeLine Tech",
+    "body": "We would like to invite you to a short interview as the next step in our process.",
+    "status": "next_step"
+  },
+  {
+    "id": 25,
+    "company": "SilverRoot",
+    "job_title": "Database Intern",
+    "sender": "talent@silverroot.io",
+    "subject": "Application Update",
+    "body": "We appreciate the time you took to apply, but we have selected other candidates for this role.",
+    "status": "rejected"
+  },
+  {
+    "id": 26,
+    "company": "Pioneer Stack",
+    "job_title": "IT Support Intern",
+    "sender": "jobs@pioneerstack.com",
+    "subject": "Screening Call Invitation",
+    "body": "We would like to move ahead with your application and schedule a screening call.",
+    "status": "next_step"
+  },
+  {
+    "id": 27,
+    "company": "LogicMint",
+    "job_title": "Application Developer Intern",
+    "sender": "careers@logicmint.dev",
+    "subject": "Decision regarding your candidacy",
+    "body": "After careful review, we will not be progressing your application further.",
+    "status": "rejected"
+  },
+  {
+    "id": 28,
+    "company": "Nebula Circuit",
+    "job_title": "FPGA Intern",
+    "sender": "recruitment@nebulacircuit.com",
+    "subject": "Interview Request",
+    "body": "Your application was successful, and we would like to arrange the next step with our team.",
+    "status": "next_step"
+  },
+  {
+    "id": 29,
+    "company": "Atlas Grid",
+    "job_title": "Infrastructure Intern",
+    "sender": "hiring@atlasgrid.ca",
+    "subject": "Application Review Outcome",
+    "body": "Thank you for applying to Atlas Grid. We will not be moving forward with your application.",
+    "status": "rejected"
+  },
+  {
+    "id": 30,
+    "company": "ZeroOne Works",
+    "job_title": "Junior Developer Intern",
+    "sender": "jobs@zerooneworks.io",
+    "subject": "Advance to Next Round",
+    "body": "We are pleased to invite you to continue to the next phase of our hiring process.",
+    "status": "next_step"
+  },
+  {
+    "id": 31,
+    "company": "Firefly Compute",
+    "job_title": "Systems Programming Intern",
+    "sender": "careers@fireflycompute.com",
+    "subject": "Outcome of your application",
+    "body": "We appreciate your interest in Firefly Compute, but we will not be proceeding with your application.",
+    "status": "rejected"
+  },
+  {
+    "id": 32,
+    "company": "UrbanDelta",
+    "job_title": "Web Developer Intern",
+    "sender": "talent@urbandelta.dev",
+    "subject": "Next Steps Available",
+    "body": "We enjoyed reviewing your profile and would like to invite you to the next step.",
+    "status": "next_step"
+  },
+  {
+    "id": 33,
+    "company": "CodeRiver",
+    "job_title": "Software Engineering Intern",
+    "sender": "recruitment@coderiver.io",
+    "subject": "Application Status",
+    "body": "Thank you for your application. We have decided not to move forward with your candidacy.",
+    "status": "rejected"
+  },
+  {
+    "id": 34,
+    "company": "SkyCircuit",
+    "job_title": "Mechatronics Intern",
+    "sender": "jobs@skycircuit.ca",
+    "subject": "Please complete the next step",
+    "body": "We would like to continue with your application and invite you to the next stage.",
+    "status": "next_step"
+  },
+  {
+    "id": 35,
+    "company": "Axiom Harbor",
+    "job_title": "AI Engineering Intern",
+    "sender": "careers@axiomharbor.ai",
+    "subject": "Regarding your submission",
+    "body": "After reviewing your profile, we are moving ahead with other applicants at this time.",
+    "status": "rejected"
+  },
+  {
+    "id": 36,
+    "company": "CoreVista",
+    "job_title": "Mobile Developer Intern",
+    "sender": "hiring@corevista.io",
+    "subject": "Invitation to Interview",
+    "body": "We are excited to invite you to an interview as the next step in our process.",
+    "status": "next_step"
+  },
+  {
+    "id": 37,
+    "company": "DriftLabs",
+    "job_title": "Security Analyst Intern",
+    "sender": "jobs@driftlabs.com",
+    "subject": "Update from DriftLabs",
+    "body": "Thank you for applying. We will not be moving forward with your application at this time.",
+    "status": "rejected"
+  },
+  {
+    "id": 38,
+    "company": "EchoStack",
+    "job_title": "Automation Intern",
+    "sender": "talent@echostack.dev",
+    "subject": "You have advanced",
+    "body": "We are pleased to let you know that you have advanced to the next step in our process.",
+    "status": "next_step"
+  },
+  {
+    "id": 39,
+    "company": "IronPeak Robotics",
+    "job_title": "Robotics Intern",
+    "sender": "careers@ironpeakrobotics.com",
+    "subject": "Application Review",
+    "body": "We appreciate your time and interest. At this stage, we are not moving forward with your application.",
+    "status": "rejected"
+  },
+  {
+    "id": 40,
+    "company": "NovaBridge",
+    "job_title": "Software Support Intern",
+    "sender": "recruitment@novabridge.ca",
+    "subject": "Next Step Invitation",
+    "body": "We would like to schedule the next step in our hiring process with you.",
+    "status": "next_step"
+  },
+  {
+    "id": 41,
+    "company": "LumenData",
+    "job_title": "Business Intelligence Intern",
+    "sender": "jobs@lumendata.io",
+    "subject": "Decision on your application",
+    "body": "Thank you for applying to LumenData. We have decided not to proceed with your candidacy.",
+    "status": "rejected"
+  },
+  {
+    "id": 42,
+    "company": "BitCraft Systems",
+    "job_title": "Software Developer Intern",
+    "sender": "talent@bitcraftsystems.com",
+    "subject": "Let's move to the next round",
+    "body": "We would like to move your application to the next stage and arrange a meeting.",
+    "status": "next_step"
+  },
+  {
+    "id": 43,
+    "company": "VertexLane",
+    "job_title": "Cloud Engineering Intern",
+    "sender": "careers@vertexlane.dev",
+    "subject": "Application Outcome",
+    "body": "We appreciate your interest, but we are moving ahead with other candidates for this role.",
+    "status": "rejected"
+  },
+  {
+    "id": 44,
+    "company": "PrismForge",
+    "job_title": "AR/VR Intern",
+    "sender": "hiring@prismforge.co",
+    "subject": "Next steps for your application",
+    "body": "We are pleased to invite you to proceed to the next step in our recruitment process.",
+    "status": "next_step"
+  },
+  {
+    "id": 45,
+    "company": "OrbitWare",
+    "job_title": "QA Automation Intern",
+    "sender": "jobs@orbitware.ai",
+    "subject": "Status update on your application",
+    "body": "Thank you for your application. Unfortunately, we will not be progressing your application.",
+    "status": "rejected"
+  },
+  {
+    "id": 46,
+    "company": "TrueNorth Logic",
+    "job_title": "Data Engineering Intern",
+    "sender": "recruiting@truenorthlogic.ca",
+    "subject": "Invitation to continue",
+    "body": "We would like to invite you to continue to the next stage of the hiring process.",
+    "status": "next_step"
+  },
+  {
+    "id": 47,
+    "company": "DeltaPilot",
+    "job_title": "Controls Intern",
+    "sender": "careers@deltapilot.tech",
+    "subject": "Application follow-up",
+    "body": "We appreciate your submission, but we are unable to continue with your application.",
+    "status": "rejected"
+  },
+  {
+    "id": 48,
+    "company": "CloudMint",
+    "job_title": "Site Reliability Intern",
+    "sender": "talent@cloudmint.io",
+    "subject": "Interview Scheduling",
+    "body": "Your application has progressed to the next step. Please confirm your interview availability.",
+    "status": "next_step"
+  },
+  {
+    "id": 49,
+    "company": "BrightForge",
+    "job_title": "Frontend Engineering Intern",
+    "sender": "jobs@brightforge.dev",
+    "subject": "Update regarding your application",
+    "body": "After reviewing your application, we have chosen not to proceed further.",
+    "status": "rejected"
+  },
+  {
+    "id": 50,
+    "company": "NanoCircuit Labs",
+    "job_title": "PCB Design Intern",
+    "sender": "hiring@nanocircuitlabs.com",
+    "subject": "Advance to interview stage",
+    "body": "We are pleased to move your application forward to the interview stage.",
+    "status": "next_step"
+  },
+  {
+    "id": 51,
+    "company": "CodeNest",
+    "job_title": "Junior Software Intern",
+    "sender": "careers@codenest.io",
+    "subject": "Application decision",
+    "body": "Thank you for your interest in CodeNest. We are not moving forward with your application at this time.",
+    "status": "rejected"
+  },
+  {
+    "id": 52,
+    "company": "SparkTrail",
+    "job_title": "Product Engineering Intern",
+    "sender": "recruitment@sparktrail.com",
+    "subject": "Next stage selected",
+    "body": "We would like to invite you to the next stage of our hiring process.",
+    "status": "next_step"
+  },
+  {
+    "id": 53,
+    "company": "PolarStack",
+    "job_title": "Support Engineering Intern",
+    "sender": "jobs@polarstack.ca",
+    "subject": "Review of your application",
+    "body": "We appreciate your application, but we have decided to continue with other candidates.",
+    "status": "rejected"
+  },
+  {
+    "id": 54,
+    "company": "Neon Harbor",
+    "job_title": "Platform Developer Intern",
+    "sender": "talent@neonharbor.dev",
+    "subject": "Please proceed to the next step",
+    "body": "Your profile has been shortlisted, and we would like to move you to the next step.",
+    "status": "next_step"
+  },
+  {
+    "id": 55,
+    "company": "TerraBit",
+    "job_title": "IoT Intern",
+    "sender": "careers@terrabit.tech",
+    "subject": "Application Result",
+    "body": "Thank you for applying. We regret to inform you that you were not selected for the next phase.",
+    "status": "rejected"
+  },
+  {
+    "id": 56,
+    "company": "RedMap Systems",
+    "job_title": "Junior IT Intern",
+    "sender": "hiring@redmapsystems.com",
+    "subject": "Invitation to next step",
+    "body": "We are happy to invite you to continue to the next step in our hiring process.",
+    "status": "next_step"
+  },
+  {
+    "id": 57,
+    "company": "Vertex Bloom",
+    "job_title": "Data Science Intern",
+    "sender": "jobs@vertexbloom.ai",
+    "subject": "Status update",
+    "body": "After consideration, we have decided not to move forward with your application.",
+    "status": "rejected"
+  },
+  {
+    "id": 58,
+    "company": "AstraField",
+    "job_title": "Technical Analyst Intern",
+    "sender": "talent@astrafield.ca",
+    "subject": "Next step details",
+    "body": "We would like to invite you to the next step and share more details about the process.",
+    "status": "next_step"
+  },
+  {
+    "id": 59,
+    "company": "LogicHarbor",
+    "job_title": "Software Intern",
+    "sender": "careers@logicharbor.io",
+    "subject": "Update on your candidacy",
+    "body": "We appreciate your interest, but we will not be continuing with your application.",
+    "status": "rejected"
+  },
+  {
+    "id": 60,
+    "company": "PeakRoute",
+    "job_title": "Engineering Intern",
+    "sender": "recruitment@peakroute.com",
+    "subject": "You have been moved forward",
+    "body": "We are pleased to let you know that you have been moved forward to the next stage.",
+    "status": "next_step"
+  }
+]
