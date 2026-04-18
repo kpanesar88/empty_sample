@@ -6,3 +6,6 @@ ipykernel
 
 # SQL 
 mysql-connector-python
+
+#YAML
+pyyaml
