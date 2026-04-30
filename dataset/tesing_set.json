@@ -1,0 +1,904 @@
+{
+  "emails": [
+    {
+      "id": 1,
+      "company": "CloudMesh Labs",
+      "job_title": "Systems Engineering Intern",
+      "sender": "talent@cloudmeshlabs.com",
+      "subject": "Update on your application for Systems Engineering Intern",
+      "body": "Thank you for your interest in CloudMesh Labs. After careful consideration, we have decided not to move forward with your application for the Systems Engineering Intern role at this time.",
+      "status": "rejected"
+    },
+    {
+      "id": 2,
+      "company": "NovaCore",
+      "job_title": "Firmware Intern",
+      "sender": "jobs@novacore.com",
+      "subject": "Update on your application for Firmware Intern",
+      "body": "After reviewing your application for the Firmware Intern opportunity, we have chosen to move forward with other candidates whose experience more closely aligns with our current needs.",
+      "status": "rejected"
+    },
+    {
+      "id": 3,
+      "company": "SignalSpring",
+      "job_title": "Firmware Intern",
+      "sender": "careers@signalspring.com",
+      "subject": "Next steps for your Firmware Intern application",
+      "body": "We are pleased to let you know that you have been selected to continue in the hiring process for the Firmware Intern opportunity at SignalSpring.",
+      "status": "next_step"
+    },
+    {
+      "id": 4,
+      "company": "Aurora Systems",
+      "job_title": "Engineering Intern",
+      "sender": "hiring@aurorasystems.com",
+      "subject": "Regarding your application - Engineering Intern",
+      "body": "After reviewing your application for the Engineering Intern opportunity, we have chosen to move forward with other candidates whose experience more closely aligns with our current needs.",
+      "status": "rejected"
+    },
+    {
+      "id": 5,
+      "company": "NorthByte Systems",
+      "job_title": "Software Developer Intern",
+      "sender": "recruiting@northbytesystems.com",
+      "subject": "Update on your application for Software Developer Intern",
+      "body": "Thank you for your interest in NorthByte Systems. After careful consideration, we have decided not to move forward with your application for the Software Developer Intern role at this time.",
+      "status": "rejected"
+    },
+    {
+      "id": 6,
+      "company": "IronPeak Digital",
+      "job_title": "Embedded Systems Intern",
+      "sender": "talent@ironpeakdigital.com",
+      "subject": "Application update from IronPeak Digital",
+      "body": "Your application for the Embedded Systems Intern role has been advanced to the next step. Please complete the attached scheduling form within the next three business days.",
+      "status": "next_step"
+    },
+    {
+      "id": 7,
+      "company": "SummitGrid",
+      "job_title": "Data Engineering Intern",
+      "sender": "careers@summitgrid.com",
+      "subject": "Interview invitation - Data Engineering Intern",
+      "body": "Your application for the Data Engineering Intern role has been advanced to the next step. Please complete the attached scheduling form within the next three business days.",
+      "status": "next_step"
+    },
+    {
+      "id": 8,
+      "company": "CloudMesh Labs",
+      "job_title": "Cloud Engineering Intern",
+      "sender": "hiring@cloudmeshlabs.com",
+      "subject": "You have been moved forward",
+      "body": "We are pleased to let you know that you have been selected to continue in the hiring process for the Cloud Engineering Intern opportunity at CloudMesh Labs.",
+      "status": "next_step"
+    },
+    {
+      "id": 9,
+      "company": "Quantum Harbor",
+      "job_title": "Embedded Systems Intern",
+      "sender": "talent@quantumharbor.com",
+      "subject": "Application update from Quantum Harbor",
+      "body": "We are pleased to let you know that you have been selected to continue in the hiring process for the Embedded Systems Intern opportunity at Quantum Harbor.",
+      "status": "next_step"
+    },
+    {
+      "id": 10,
+      "company": "Nimbus Logic",
+      "job_title": "Data Engineering Intern",
+      "sender": "talent@nimbuslogic.com",
+      "subject": "Next steps for your Data Engineering Intern application",
+      "body": "Your application for the Data Engineering Intern role has been advanced to the next step. Please complete the attached scheduling form within the next three business days.",
+      "status": "next_step"
+    },
+    {
+      "id": 11,
+      "company": "NovaCore",
+      "job_title": "Software Developer Intern",
+      "sender": "careers@novacore.com",
+      "subject": "Interview invitation - Software Developer Intern",
+      "body": "We were impressed with your application for the Software Developer Intern position. The hiring team would like to schedule an interview with you. Please share a few times that work for you.",
+      "status": "next_step"
+    },
+    {
+      "id": 12,
+      "company": "Aurora Systems",
+      "job_title": "Firmware Intern",
+      "sender": "recruiting@aurorasystems.com",
+      "subject": "Regarding your application - Firmware Intern",
+      "body": "After reviewing your application for the Firmware Intern opportunity, we have chosen to move forward with other candidates whose experience more closely aligns with our current needs.",
+      "status": "rejected"
+    },
+    {
+      "id": 13,
+      "company": "SummitGrid",
+      "job_title": "Engineering Intern",
+      "sender": "hiring@summitgrid.com",
+      "subject": "Update on your application for Engineering Intern",
+      "body": "We appreciate your interest in joining SummitGrid. Unfortunately, we will not be advancing your application for the Engineering Intern position.",
+      "status": "rejected"
+    },
+    {
+      "id": 14,
+      "company": "BrightLane Tech",
+      "job_title": "Embedded Systems Intern",
+      "sender": "careers@brightlanetech.com",
+      "subject": "Application update from BrightLane Tech",
+      "body": "Thank you for your interest in BrightLane Tech. We would like to move you forward to the next stage for the Embedded Systems Intern role. Please reply with your availability for an interview next week.",
+      "status": "next_step"
+    },
+    {
+      "id": 15,
+      "company": "Polar Circuit",
+      "job_title": "Data Engineering Intern",
+      "sender": "talent@polarcircuit.com",
+      "subject": "Application update from Polar Circuit",
+      "body": "The recruiting team at Polar Circuit would like to discuss your background further regarding the Data Engineering Intern role. Please choose an interview slot from the link below.",
+      "status": "next_step"
+    },
+    {
+      "id": 16,
+      "company": "Greenfield Robotics",
+      "job_title": "QA Automation Intern",
+      "sender": "careers@greenfieldrobotics.com",
+      "subject": "Application update from Greenfield Robotics",
+      "body": "Your application for the QA Automation Intern role has been advanced to the next step. Please complete the attached scheduling form within the next three business days.",
+      "status": "next_step"
+    },
+    {
+      "id": 17,
+      "company": "Cedar Analytics",
+      "job_title": "Engineering Intern",
+      "sender": "talent@cedaranalytics.com",
+      "subject": "Application status update",
+      "body": "Thank you for applying to Cedar Analytics. While we were impressed by your background, we have decided not to continue your application for the Engineering Intern role.",
+      "status": "rejected"
+    },
+    {
+      "id": 18,
+      "company": "Greenfield Robotics",
+      "job_title": "Data Engineering Intern",
+      "sender": "careers@greenfieldrobotics.com",
+      "subject": "You have been moved forward",
+      "body": "The recruiting team at Greenfield Robotics would like to discuss your background further regarding the Data Engineering Intern role. Please choose an interview slot from the link below.",
+      "status": "next_step"
+    },
+    {
+      "id": 19,
+      "company": "Stonebridge AI",
+      "job_title": "Platform Intern",
+      "sender": "recruiting@stonebridgeai.com",
+      "subject": "Application status update",
+      "body": "We appreciate the time you invested in applying to Stonebridge AI. At this stage, we will not be proceeding with your application for the Platform Intern position.",
+      "status": "rejected"
+    },
+    {
+      "id": 20,
+      "company": "Nimbus Logic",
+      "job_title": "QA Automation Intern",
+      "sender": "talent@nimbuslogic.com",
+      "subject": "Regarding your application - QA Automation Intern",
+      "body": "Thank you for applying to Nimbus Logic. While we were impressed by your background, we have decided not to continue your application for the QA Automation Intern role.",
+      "status": "rejected"
+    },
+    {
+      "id": 21,
+      "company": "NovaCore",
+      "job_title": "Embedded Systems Intern",
+      "sender": "recruiting@novacore.com",
+      "subject": "Availability request for Embedded Systems Intern",
+      "body": "We are pleased to let you know that you have been selected to continue in the hiring process for the Embedded Systems Intern opportunity at NovaCore.",
+      "status": "next_step"
+    },
+    {
+      "id": 22,
+      "company": "CloudMesh Labs",
+      "job_title": "Embedded Systems Intern",
+      "sender": "jobs@cloudmeshlabs.com",
+      "subject": "Thank you for applying to CloudMesh Labs",
+      "body": "We appreciate the time you invested in applying to CloudMesh Labs. At this stage, we will not be proceeding with your application for the Embedded Systems Intern position.",
+      "status": "rejected"
+    },
+    {
+      "id": 23,
+      "company": "BlueForge Labs",
+      "job_title": "Embedded Systems Intern",
+      "sender": "recruiting@blueforgelabs.com",
+      "subject": "Thank you for applying to BlueForge Labs",
+      "body": "We appreciate your interest in joining BlueForge Labs. Unfortunately, we will not be advancing your application for the Embedded Systems Intern position.",
+      "status": "rejected"
+    },
+    {
+      "id": 24,
+      "company": "PeakRoute",
+      "job_title": "Systems Engineering Intern",
+      "sender": "jobs@peakroute.com",
+      "subject": "Update on your application for Systems Engineering Intern",
+      "body": "We appreciate the time you invested in applying to PeakRoute. At this stage, we will not be proceeding with your application for the Systems Engineering Intern position.",
+      "status": "rejected"
+    },
+    {
+      "id": 25,
+      "company": "RivetWorks",
+      "job_title": "QA Automation Intern",
+      "sender": "talent@rivetworks.com",
+      "subject": "Update on your application for QA Automation Intern",
+      "body": "We appreciate the time you invested in applying to RivetWorks. At this stage, we will not be proceeding with your application for the QA Automation Intern position.",
+      "status": "rejected"
+    },
+    {
+      "id": 26,
+      "company": "NovaCore",
+      "job_title": "Software Developer Intern",
+      "sender": "careers@novacore.com",
+      "subject": "Next steps for your Software Developer Intern application",
+      "body": "We were impressed with your application for the Software Developer Intern position. The hiring team would like to schedule an interview with you. Please share a few times that work for you.",
+      "status": "next_step"
+    },
+    {
+      "id": 27,
+      "company": "SummitGrid",
+      "job_title": "Systems Engineering Intern",
+      "sender": "recruiting@summitgrid.com",
+      "subject": "Next steps for your Systems Engineering Intern application",
+      "body": "Your application for the Systems Engineering Intern role has been advanced to the next step. Please complete the attached scheduling form within the next three business days.",
+      "status": "next_step"
+    },
+    {
+      "id": 28,
+      "company": "Nimbus Logic",
+      "job_title": "Data Engineering Intern",
+      "sender": "recruiting@nimbuslogic.com",
+      "subject": "You have been moved forward",
+      "body": "The recruiting team at Nimbus Logic would like to discuss your background further regarding the Data Engineering Intern role. Please choose an interview slot from the link below.",
+      "status": "next_step"
+    },
+    {
+      "id": 29,
+      "company": "CloudMesh Labs",
+      "job_title": "Software Developer Intern",
+      "sender": "careers@cloudmeshlabs.com",
+      "subject": "Update on your application for Software Developer Intern",
+      "body": "We appreciate the time you invested in applying to CloudMesh Labs. At this stage, we will not be proceeding with your application for the Software Developer Intern position.",
+      "status": "rejected"
+    },
+    {
+      "id": 30,
+      "company": "Quantum Harbor",
+      "job_title": "Engineering Intern",
+      "sender": "hiring@quantumharbor.com",
+      "subject": "Regarding your application - Engineering Intern",
+      "body": "We appreciate your interest in joining Quantum Harbor. Unfortunately, we will not be advancing your application for the Engineering Intern position.",
+      "status": "rejected"
+    },
+    {
+      "id": 31,
+      "company": "Nimbus Logic",
+      "job_title": "Data Engineering Intern",
+      "sender": "recruiting@nimbuslogic.com",
+      "subject": "You have been moved forward",
+      "body": "We are pleased to let you know that you have been selected to continue in the hiring process for the Data Engineering Intern opportunity at Nimbus Logic.",
+      "status": "next_step"
+    },
+    {
+      "id": 32,
+      "company": "SummitGrid",
+      "job_title": "Embedded Systems Intern",
+      "sender": "talent@summitgrid.com",
+      "subject": "Decision on your Embedded Systems Intern application",
+      "body": "We appreciate the time you invested in applying to SummitGrid. At this stage, we will not be proceeding with your application for the Embedded Systems Intern position.",
+      "status": "rejected"
+    },
+    {
+      "id": 33,
+      "company": "BlueForge Labs",
+      "job_title": "Embedded Systems Intern",
+      "sender": "jobs@blueforgelabs.com",
+      "subject": "Next steps for your Embedded Systems Intern application",
+      "body": "Thank you for your interest in BlueForge Labs. We would like to move you forward to the next stage for the Embedded Systems Intern role. Please reply with your availability for an interview next week.",
+      "status": "next_step"
+    },
+    {
+      "id": 34,
+      "company": "PeakRoute",
+      "job_title": "Data Engineering Intern",
+      "sender": "talent@peakroute.com",
+      "subject": "Application status update",
+      "body": "Thank you for your interest in PeakRoute. After careful consideration, we have decided not to move forward with your application for the Data Engineering Intern role at this time.",
+      "status": "rejected"
+    },
+    {
+      "id": 35,
+      "company": "PeakRoute",
+      "job_title": "Cloud Engineering Intern",
+      "sender": "hiring@peakroute.com",
+      "subject": "Next steps for your Cloud Engineering Intern application",
+      "body": "Your application for the Cloud Engineering Intern role has been advanced to the next step. Please complete the attached scheduling form within the next three business days.",
+      "status": "next_step"
+    },
+    {
+      "id": 36,
+      "company": "NovaCore",
+      "job_title": "Backend Developer Intern",
+      "sender": "jobs@novacore.com",
+      "subject": "Update on your application for Backend Developer Intern",
+      "body": "We appreciate the time you invested in applying to NovaCore. At this stage, we will not be proceeding with your application for the Backend Developer Intern position.",
+      "status": "rejected"
+    },
+    {
+      "id": 37,
+      "company": "HexaPulse",
+      "job_title": "Platform Intern",
+      "sender": "recruiting@hexapulse.com",
+      "subject": "Thank you for applying to HexaPulse",
+      "body": "Thank you for applying to HexaPulse. While we were impressed by your background, we have decided not to continue your application for the Platform Intern role.",
+      "status": "rejected"
+    },
+    {
+      "id": 38,
+      "company": "Quantum Harbor",
+      "job_title": "Software Developer Intern",
+      "sender": "careers@quantumharbor.com",
+      "subject": "Application update from Quantum Harbor",
+      "body": "We are pleased to let you know that you have been selected to continue in the hiring process for the Software Developer Intern opportunity at Quantum Harbor.",
+      "status": "next_step"
+    },
+    {
+      "id": 39,
+      "company": "VertexWare",
+      "job_title": "Cloud Engineering Intern",
+      "sender": "hiring@vertexware.com",
+      "subject": "You have been moved forward",
+      "body": "We are pleased to let you know that you have been selected to continue in the hiring process for the Cloud Engineering Intern opportunity at VertexWare.",
+      "status": "next_step"
+    },
+    {
+      "id": 40,
+      "company": "PeakRoute",
+      "job_title": "Systems Engineering Intern",
+      "sender": "careers@peakroute.com",
+      "subject": "Application update from PeakRoute",
+      "body": "The recruiting team at PeakRoute would like to discuss your background further regarding the Systems Engineering Intern role. Please choose an interview slot from the link below.",
+      "status": "next_step"
+    },
+    {
+      "id": 41,
+      "company": "Nimbus Logic",
+      "job_title": "Backend Developer Intern",
+      "sender": "hiring@nimbuslogic.com",
+      "subject": "Thank you for applying to Nimbus Logic",
+      "body": "We appreciate the time you invested in applying to Nimbus Logic. At this stage, we will not be proceeding with your application for the Backend Developer Intern position.",
+      "status": "rejected"
+    },
+    {
+      "id": 42,
+      "company": "CloudMesh Labs",
+      "job_title": "Embedded Systems Intern",
+      "sender": "talent@cloudmeshlabs.com",
+      "subject": "Update on your application for Embedded Systems Intern",
+      "body": "After reviewing your application for the Embedded Systems Intern opportunity, we have chosen to move forward with other candidates whose experience more closely aligns with our current needs.",
+      "status": "rejected"
+    },
+    {
+      "id": 43,
+      "company": "IronPeak Digital",
+      "job_title": "Backend Developer Intern",
+      "sender": "careers@ironpeakdigital.com",
+      "subject": "Regarding your application - Backend Developer Intern",
+      "body": "We appreciate your interest in joining IronPeak Digital. Unfortunately, we will not be advancing your application for the Backend Developer Intern position.",
+      "status": "rejected"
+    },
+    {
+      "id": 44,
+      "company": "MapleTech Solutions",
+      "job_title": "Engineering Intern",
+      "sender": "jobs@mapletechsolutions.com",
+      "subject": "Interview invitation - Engineering Intern",
+      "body": "The recruiting team at MapleTech Solutions would like to discuss your background further regarding the Engineering Intern role. Please choose an interview slot from the link below.",
+      "status": "next_step"
+    },
+    {
+      "id": 45,
+      "company": "MapleTech Solutions",
+      "job_title": "Platform Intern",
+      "sender": "hiring@mapletechsolutions.com",
+      "subject": "Application update from MapleTech Solutions",
+      "body": "Thank you for your interest in MapleTech Solutions. We would like to move you forward to the next stage for the Platform Intern role. Please reply with your availability for an interview next week.",
+      "status": "next_step"
+    },
+    {
+      "id": 46,
+      "company": "Cedar Analytics",
+      "job_title": "QA Automation Intern",
+      "sender": "hiring@cedaranalytics.com",
+      "subject": "Application status update",
+      "body": "We appreciate your interest in joining Cedar Analytics. Unfortunately, we will not be advancing your application for the QA Automation Intern position.",
+      "status": "rejected"
+    },
+    {
+      "id": 47,
+      "company": "Cedar Analytics",
+      "job_title": "Engineering Intern",
+      "sender": "jobs@cedaranalytics.com",
+      "subject": "Update on your application for Engineering Intern",
+      "body": "We appreciate your interest in joining Cedar Analytics. Unfortunately, we will not be advancing your application for the Engineering Intern position.",
+      "status": "rejected"
+    },
+    {
+      "id": 48,
+      "company": "PeakRoute",
+      "job_title": "Software Developer Intern",
+      "sender": "hiring@peakroute.com",
+      "subject": "Availability request for Software Developer Intern",
+      "body": "The recruiting team at PeakRoute would like to discuss your background further regarding the Software Developer Intern role. Please choose an interview slot from the link below.",
+      "status": "next_step"
+    },
+    {
+      "id": 49,
+      "company": "Stonebridge AI",
+      "job_title": "Engineering Intern",
+      "sender": "hiring@stonebridgeai.com",
+      "subject": "Interview invitation - Engineering Intern",
+      "body": "The recruiting team at Stonebridge AI would like to discuss your background further regarding the Engineering Intern role. Please choose an interview slot from the link below.",
+      "status": "next_step"
+    },
+    {
+      "id": 50,
+      "company": "BlueForge Labs",
+      "job_title": "Systems Engineering Intern",
+      "sender": "hiring@blueforgelabs.com",
+      "subject": "Interview invitation - Systems Engineering Intern",
+      "body": "Your application for the Systems Engineering Intern role has been advanced to the next step. Please complete the attached scheduling form within the next three business days.",
+      "status": "next_step"
+    },
+    {
+      "id": 51,
+      "company": "PeakRoute",
+      "job_title": "Embedded Systems Intern",
+      "sender": "talent@peakroute.com",
+      "subject": "Next steps for your Embedded Systems Intern application",
+      "body": "We are pleased to let you know that you have been selected to continue in the hiring process for the Embedded Systems Intern opportunity at PeakRoute.",
+      "status": "next_step"
+    },
+    {
+      "id": 52,
+      "company": "Polar Circuit",
+      "job_title": "Cloud Engineering Intern",
+      "sender": "jobs@polarcircuit.com",
+      "subject": "Update on your application for Cloud Engineering Intern",
+      "body": "Thank you for applying to Polar Circuit. While we were impressed by your background, we have decided not to continue your application for the Cloud Engineering Intern role.",
+      "status": "rejected"
+    },
+    {
+      "id": 53,
+      "company": "NovaCore",
+      "job_title": "Software Developer Intern",
+      "sender": "jobs@novacore.com",
+      "subject": "Application update from NovaCore",
+      "body": "The recruiting team at NovaCore would like to discuss your background further regarding the Software Developer Intern role. Please choose an interview slot from the link below.",
+      "status": "next_step"
+    },
+    {
+      "id": 54,
+      "company": "BlueForge Labs",
+      "job_title": "Engineering Intern",
+      "sender": "talent@blueforgelabs.com",
+      "subject": "Update on your application for Engineering Intern",
+      "body": "After reviewing your application for the Engineering Intern opportunity, we have chosen to move forward with other candidates whose experience more closely aligns with our current needs.",
+      "status": "rejected"
+    },
+    {
+      "id": 55,
+      "company": "RivetWorks",
+      "job_title": "Platform Intern",
+      "sender": "recruiting@rivetworks.com",
+      "subject": "Application update from RivetWorks",
+      "body": "We are pleased to let you know that you have been selected to continue in the hiring process for the Platform Intern opportunity at RivetWorks.",
+      "status": "next_step"
+    },
+    {
+      "id": 56,
+      "company": "Cedar Analytics",
+      "job_title": "Embedded Systems Intern",
+      "sender": "talent@cedaranalytics.com",
+      "subject": "Thank you for applying to Cedar Analytics",
+      "body": "After reviewing your application for the Embedded Systems Intern opportunity, we have chosen to move forward with other candidates whose experience more closely aligns with our current needs.",
+      "status": "rejected"
+    },
+    {
+      "id": 57,
+      "company": "Quantum Harbor",
+      "job_title": "QA Automation Intern",
+      "sender": "hiring@quantumharbor.com",
+      "subject": "Thank you for applying to Quantum Harbor",
+      "body": "We appreciate the time you invested in applying to Quantum Harbor. At this stage, we will not be proceeding with your application for the QA Automation Intern position.",
+      "status": "rejected"
+    },
+    {
+      "id": 58,
+      "company": "Quantum Harbor",
+      "job_title": "Embedded Systems Intern",
+      "sender": "careers@quantumharbor.com",
+      "subject": "Availability request for Embedded Systems Intern",
+      "body": "Thank you for your interest in Quantum Harbor. We would like to move you forward to the next stage for the Embedded Systems Intern role. Please reply with your availability for an interview next week.",
+      "status": "next_step"
+    },
+    {
+      "id": 59,
+      "company": "BrightLane Tech",
+      "job_title": "Cloud Engineering Intern",
+      "sender": "recruiting@brightlanetech.com",
+      "subject": "Regarding your application - Cloud Engineering Intern",
+      "body": "After reviewing your application for the Cloud Engineering Intern opportunity, we have chosen to move forward with other candidates whose experience more closely aligns with our current needs.",
+      "status": "rejected"
+    },
+    {
+      "id": 60,
+      "company": "NorthByte Systems",
+      "job_title": "Engineering Intern",
+      "sender": "talent@northbytesystems.com",
+      "subject": "Update on your application for Engineering Intern",
+      "body": "We appreciate your interest in joining NorthByte Systems. Unfortunately, we will not be advancing your application for the Engineering Intern position.",
+      "status": "rejected"
+    },
+    {
+      "id": 61,
+      "company": "Nimbus Logic",
+      "job_title": "Engineering Intern",
+      "sender": "careers@nimbuslogic.com",
+      "subject": "Thank you for applying to Nimbus Logic",
+      "body": "After reviewing your application for the Engineering Intern opportunity, we have chosen to move forward with other candidates whose experience more closely aligns with our current needs.",
+      "status": "rejected"
+    },
+    {
+      "id": 62,
+      "company": "HexaPulse",
+      "job_title": "Cloud Engineering Intern",
+      "sender": "hiring@hexapulse.com",
+      "subject": "You have been moved forward",
+      "body": "Your application for the Cloud Engineering Intern role has been advanced to the next step. Please complete the attached scheduling form within the next three business days.",
+      "status": "next_step"
+    },
+    {
+      "id": 63,
+      "company": "NovaCore",
+      "job_title": "Embedded Systems Intern",
+      "sender": "jobs@novacore.com",
+      "subject": "You have been moved forward",
+      "body": "The recruiting team at NovaCore would like to discuss your background further regarding the Embedded Systems Intern role. Please choose an interview slot from the link below.",
+      "status": "next_step"
+    },
+    {
+      "id": 64,
+      "company": "SummitGrid",
+      "job_title": "QA Automation Intern",
+      "sender": "talent@summitgrid.com",
+      "subject": "Update on your application for QA Automation Intern",
+      "body": "Thank you for your interest in SummitGrid. After careful consideration, we have decided not to move forward with your application for the QA Automation Intern role at this time.",
+      "status": "rejected"
+    },
+    {
+      "id": 65,
+      "company": "Stonebridge AI",
+      "job_title": "Data Engineering Intern",
+      "sender": "jobs@stonebridgeai.com",
+      "subject": "Next steps for your Data Engineering Intern application",
+      "body": "Your application for the Data Engineering Intern role has been advanced to the next step. Please complete the attached scheduling form within the next three business days.",
+      "status": "next_step"
+    },
+    {
+      "id": 66,
+      "company": "SignalSpring",
+      "job_title": "Embedded Systems Intern",
+      "sender": "recruiting@signalspring.com",
+      "subject": "You have been moved forward",
+      "body": "We were impressed with your application for the Embedded Systems Intern position. The hiring team would like to schedule an interview with you. Please share a few times that work for you.",
+      "status": "next_step"
+    },
+    {
+      "id": 67,
+      "company": "Polar Circuit",
+      "job_title": "Embedded Systems Intern",
+      "sender": "jobs@polarcircuit.com",
+      "subject": "Application status update",
+      "body": "We appreciate the time you invested in applying to Polar Circuit. At this stage, we will not be proceeding with your application for the Embedded Systems Intern position.",
+      "status": "rejected"
+    },
+    {
+      "id": 68,
+      "company": "BlueForge Labs",
+      "job_title": "Software Developer Intern",
+      "sender": "jobs@blueforgelabs.com",
+      "subject": "Regarding your application - Software Developer Intern",
+      "body": "We appreciate the time you invested in applying to BlueForge Labs. At this stage, we will not be proceeding with your application for the Software Developer Intern position.",
+      "status": "rejected"
+    },
+    {
+      "id": 69,
+      "company": "SignalSpring",
+      "job_title": "Backend Developer Intern",
+      "sender": "recruiting@signalspring.com",
+      "subject": "Availability request for Backend Developer Intern",
+      "body": "Your application for the Backend Developer Intern role has been advanced to the next step. Please complete the attached scheduling form within the next three business days.",
+      "status": "next_step"
+    },
+    {
+      "id": 70,
+      "company": "SummitGrid",
+      "job_title": "Backend Developer Intern",
+      "sender": "recruiting@summitgrid.com",
+      "subject": "Interview invitation - Backend Developer Intern",
+      "body": "We are pleased to let you know that you have been selected to continue in the hiring process for the Backend Developer Intern opportunity at SummitGrid.",
+      "status": "next_step"
+    },
+    {
+      "id": 71,
+      "company": "CloudMesh Labs",
+      "job_title": "Platform Intern",
+      "sender": "talent@cloudmeshlabs.com",
+      "subject": "Interview invitation - Platform Intern",
+      "body": "We are pleased to let you know that you have been selected to continue in the hiring process for the Platform Intern opportunity at CloudMesh Labs.",
+      "status": "next_step"
+    },
+    {
+      "id": 72,
+      "company": "SummitGrid",
+      "job_title": "Firmware Intern",
+      "sender": "talent@summitgrid.com",
+      "subject": "You have been moved forward",
+      "body": "Thank you for your interest in SummitGrid. We would like to move you forward to the next stage for the Firmware Intern role. Please reply with your availability for an interview next week.",
+      "status": "next_step"
+    },
+    {
+      "id": 73,
+      "company": "NorthByte Systems",
+      "job_title": "Platform Intern",
+      "sender": "hiring@northbytesystems.com",
+      "subject": "Update on your application for Platform Intern",
+      "body": "Thank you for your interest in NorthByte Systems. After careful consideration, we have decided not to move forward with your application for the Platform Intern role at this time.",
+      "status": "rejected"
+    },
+    {
+      "id": 74,
+      "company": "NorthByte Systems",
+      "job_title": "Systems Engineering Intern",
+      "sender": "talent@northbytesystems.com",
+      "subject": "Decision on your Systems Engineering Intern application",
+      "body": "Thank you for applying to NorthByte Systems. While we were impressed by your background, we have decided not to continue your application for the Systems Engineering Intern role.",
+      "status": "rejected"
+    },
+    {
+      "id": 75,
+      "company": "Quantum Harbor",
+      "job_title": "Software Developer Intern",
+      "sender": "careers@quantumharbor.com",
+      "subject": "You have been moved forward",
+      "body": "We were impressed with your application for the Software Developer Intern position. The hiring team would like to schedule an interview with you. Please share a few times that work for you.",
+      "status": "next_step"
+    },
+    {
+      "id": 76,
+      "company": "Quantum Harbor",
+      "job_title": "Platform Intern",
+      "sender": "jobs@quantumharbor.com",
+      "subject": "Availability request for Platform Intern",
+      "body": "The recruiting team at Quantum Harbor would like to discuss your background further regarding the Platform Intern role. Please choose an interview slot from the link below.",
+      "status": "next_step"
+    },
+    {
+      "id": 77,
+      "company": "VertexWare",
+      "job_title": "Engineering Intern",
+      "sender": "hiring@vertexware.com",
+      "subject": "Next steps for your Engineering Intern application",
+      "body": "We were impressed with your application for the Engineering Intern position. The hiring team would like to schedule an interview with you. Please share a few times that work for you.",
+      "status": "next_step"
+    },
+    {
+      "id": 78,
+      "company": "NovaCore",
+      "job_title": "Engineering Intern",
+      "sender": "talent@novacore.com",
+      "subject": "Update on your application for Engineering Intern",
+      "body": "We appreciate your interest in joining NovaCore. Unfortunately, we will not be advancing your application for the Engineering Intern position.",
+      "status": "rejected"
+    },
+    {
+      "id": 79,
+      "company": "Polar Circuit",
+      "job_title": "Software Developer Intern",
+      "sender": "jobs@polarcircuit.com",
+      "subject": "Interview invitation - Software Developer Intern",
+      "body": "We were impressed with your application for the Software Developer Intern position. The hiring team would like to schedule an interview with you. Please share a few times that work for you.",
+      "status": "next_step"
+    },
+    {
+      "id": 80,
+      "company": "Greenfield Robotics",
+      "job_title": "Software Developer Intern",
+      "sender": "hiring@greenfieldrobotics.com",
+      "subject": "Next steps for your Software Developer Intern application",
+      "body": "We are pleased to let you know that you have been selected to continue in the hiring process for the Software Developer Intern opportunity at Greenfield Robotics.",
+      "status": "next_step"
+    },
+    {
+      "id": 81,
+      "company": "Aurora Systems",
+      "job_title": "Platform Intern",
+      "sender": "careers@aurorasystems.com",
+      "subject": "Update on your application for Platform Intern",
+      "body": "After reviewing your application for the Platform Intern opportunity, we have chosen to move forward with other candidates whose experience more closely aligns with our current needs.",
+      "status": "rejected"
+    },
+    {
+      "id": 82,
+      "company": "HexaPulse",
+      "job_title": "Firmware Intern",
+      "sender": "careers@hexapulse.com",
+      "subject": "Regarding your application - Firmware Intern",
+      "body": "Thank you for applying to HexaPulse. While we were impressed by your background, we have decided not to continue your application for the Firmware Intern role.",
+      "status": "rejected"
+    },
+    {
+      "id": 83,
+      "company": "Cedar Analytics",
+      "job_title": "QA Automation Intern",
+      "sender": "hiring@cedaranalytics.com",
+      "subject": "Update on your application for QA Automation Intern",
+      "body": "We appreciate your interest in joining Cedar Analytics. Unfortunately, we will not be advancing your application for the QA Automation Intern position.",
+      "status": "rejected"
+    },
+    {
+      "id": 84,
+      "company": "Nimbus Logic",
+      "job_title": "Cloud Engineering Intern",
+      "sender": "jobs@nimbuslogic.com",
+      "subject": "Regarding your application - Cloud Engineering Intern",
+      "body": "Thank you for applying to Nimbus Logic. While we were impressed by your background, we have decided not to continue your application for the Cloud Engineering Intern role.",
+      "status": "rejected"
+    },
+    {
+      "id": 85,
+      "company": "BrightLane Tech",
+      "job_title": "Firmware Intern",
+      "sender": "hiring@brightlanetech.com",
+      "subject": "Update on your application for Firmware Intern",
+      "body": "Thank you for your interest in BrightLane Tech. After careful consideration, we have decided not to move forward with your application for the Firmware Intern role at this time.",
+      "status": "rejected"
+    },
+    {
+      "id": 86,
+      "company": "BrightLane Tech",
+      "job_title": "Embedded Systems Intern",
+      "sender": "hiring@brightlanetech.com",
+      "subject": "Update on your application for Embedded Systems Intern",
+      "body": "After reviewing your application for the Embedded Systems Intern opportunity, we have chosen to move forward with other candidates whose experience more closely aligns with our current needs.",
+      "status": "rejected"
+    },
+    {
+      "id": 87,
+      "company": "NovaCore",
+      "job_title": "Backend Developer Intern",
+      "sender": "hiring@novacore.com",
+      "subject": "Regarding your application - Backend Developer Intern",
+      "body": "Thank you for your interest in NovaCore. After careful consideration, we have decided not to move forward with your application for the Backend Developer Intern role at this time.",
+      "status": "rejected"
+    },
+    {
+      "id": 88,
+      "company": "Polar Circuit",
+      "job_title": "QA Automation Intern",
+      "sender": "talent@polarcircuit.com",
+      "subject": "Application update from Polar Circuit",
+      "body": "Your application for the QA Automation Intern role has been advanced to the next step. Please complete the attached scheduling form within the next three business days.",
+      "status": "next_step"
+    },
+    {
+      "id": 89,
+      "company": "VertexWare",
+      "job_title": "QA Automation Intern",
+      "sender": "hiring@vertexware.com",
+      "subject": "Update on your application for QA Automation Intern",
+      "body": "We appreciate your interest in joining VertexWare. Unfortunately, we will not be advancing your application for the QA Automation Intern position.",
+      "status": "rejected"
+    },
+    {
+      "id": 90,
+      "company": "NorthByte Systems",
+      "job_title": "Software Developer Intern",
+      "sender": "recruiting@northbytesystems.com",
+      "subject": "Application status update",
+      "body": "Thank you for your interest in NorthByte Systems. After careful consideration, we have decided not to move forward with your application for the Software Developer Intern role at this time.",
+      "status": "rejected"
+    },
+    {
+      "id": 91,
+      "company": "SignalSpring",
+      "job_title": "Backend Developer Intern",
+      "sender": "hiring@signalspring.com",
+      "subject": "Regarding your application - Backend Developer Intern",
+      "body": "We appreciate your interest in joining SignalSpring. Unfortunately, we will not be advancing your application for the Backend Developer Intern position.",
+      "status": "rejected"
+    },
+    {
+      "id": 92,
+      "company": "BlueForge Labs",
+      "job_title": "Data Engineering Intern",
+      "sender": "hiring@blueforgelabs.com",
+      "subject": "Availability request for Data Engineering Intern",
+      "body": "The recruiting team at BlueForge Labs would like to discuss your background further regarding the Data Engineering Intern role. Please choose an interview slot from the link below.",
+      "status": "next_step"
+    },
+    {
+      "id": 93,
+      "company": "MapleTech Solutions",
+      "job_title": "Embedded Systems Intern",
+      "sender": "jobs@mapletechsolutions.com",
+      "subject": "Availability request for Embedded Systems Intern",
+      "body": "We were impressed with your application for the Embedded Systems Intern position. The hiring team would like to schedule an interview with you. Please share a few times that work for you.",
+      "status": "next_step"
+    },
+    {
+      "id": 94,
+      "company": "NovaCore",
+      "job_title": "Software Developer Intern",
+      "sender": "jobs@novacore.com",
+      "subject": "You have been moved forward",
+      "body": "We were impressed with your application for the Software Developer Intern position. The hiring team would like to schedule an interview with you. Please share a few times that work for you.",
+      "status": "next_step"
+    },
+    {
+      "id": 95,
+      "company": "NorthByte Systems",
+      "job_title": "QA Automation Intern",
+      "sender": "recruiting@northbytesystems.com",
+      "subject": "Application update from NorthByte Systems",
+      "body": "Your application for the QA Automation Intern role has been advanced to the next step. Please complete the attached scheduling form within the next three business days.",
+      "status": "next_step"
+    },
+    {
+      "id": 96,
+      "company": "NovaCore",
+      "job_title": "Backend Developer Intern",
+      "sender": "jobs@novacore.com",
+      "subject": "Thank you for applying to NovaCore",
+      "body": "After reviewing your application for the Backend Developer Intern opportunity, we have chosen to move forward with other candidates whose experience more closely aligns with our current needs.",
+      "status": "rejected"
+    },
+    {
+      "id": 97,
+      "company": "IronPeak Digital",
+      "job_title": "Cloud Engineering Intern",
+      "sender": "jobs@ironpeakdigital.com",
+      "subject": "Decision on your Cloud Engineering Intern application",
+      "body": "We appreciate the time you invested in applying to IronPeak Digital. At this stage, we will not be proceeding with your application for the Cloud Engineering Intern position.",
+      "status": "rejected"
+    },
+    {
+      "id": 98,
+      "company": "IronPeak Digital",
+      "job_title": "Backend Developer Intern",
+      "sender": "recruiting@ironpeakdigital.com",
+      "subject": "Next steps for your Backend Developer Intern application",
+      "body": "We were impressed with your application for the Backend Developer Intern position. The hiring team would like to schedule an interview with you. Please share a few times that work for you.",
+      "status": "next_step"
+    },
+    {
+      "id": 99,
+      "company": "CloudMesh Labs",
+      "job_title": "Cloud Engineering Intern",
+      "sender": "talent@cloudmeshlabs.com",
+      "subject": "Application status update",
+      "body": "We appreciate the time you invested in applying to CloudMesh Labs. At this stage, we will not be proceeding with your application for the Cloud Engineering Intern position.",
+      "status": "rejected"
+    },
+    {
+      "id": 100,
+      "company": "IronPeak Digital",
+      "job_title": "Systems Engineering Intern",
+      "sender": "jobs@ironpeakdigital.com",
+      "subject": "Availability request for Systems Engineering Intern",
+      "body": "Your application for the Systems Engineering Intern role has been advanced to the next step. Please complete the attached scheduling form within the next three business days.",
+      "status": "next_step"
+    }
+  ]
+}
