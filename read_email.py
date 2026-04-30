@@ -31,15 +31,14 @@ def fetch_email(mail, email_id):
     return data
 
 
-def print_email_info(data):
+def extract_email_info(data):
     for response_part in data:
         if isinstance(response_part, tuple):
             my_msg = email.message_from_bytes(response_part[1])
 
-            print("________________________________________")
-            print("Subject:", my_msg["subject"])
-            print("From:", my_msg["from"])
-            print("Body:")
+            subject = my_msg["subject"]
+            sender = my_msg["from"]
+            body_text = ""
 
             if my_msg.is_multipart():
                 for part in my_msg.walk():
@@ -49,17 +48,17 @@ def print_email_info(data):
                     if content_type == "text/plain" and "attachment" not in content_disposition:
                         body = part.get_payload(decode=True)
                         if body:
-                            print(body.decode(errors="ignore"))
+                            body_text = body.decode(errors="ignore")
                             break
             else:
                 body = my_msg.get_payload(decode=True)
                 if body:
-                    print(body.decode(errors="ignore"))
+                    body_text = body.decode(errors="ignore")
 
+            return {
+                "subject": subject,
+                "sender": sender,
+                "body": body_text
+            }
 
-my_mail = connect_to_email(user, password)
-mail_ids = get_unread_emails(my_mail)
-
-for email_id in mail_ids:
-    data = fetch_email(my_mail, email_id)
-    print_email_info(data)
+    return None
