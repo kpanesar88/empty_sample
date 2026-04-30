@@ -548,6 +548,24 @@
             "subject": "TEST",
             "body": "We are pleased to let you know that you have been moved forward to the next stage.",
             "status": "next_step"
+        },
+        {
+            "id": 62,
+            "company": "WALMART",
+            "job_title": "SOFTWARE DEVELOPER",
+            "sender": "Karanveer Panesar <karanveerpanesar04@gmail.com>",
+            "subject": "Update on your application for Software Developer Intern",
+            "body": "Thank you for your interest in Walmart. After careful consideration,\r\nwe have decided not to move forward with your application for the\r\nSoftware Developer Intern role at this time.",
+            "status": "rejected"
+        },
+        {
+            "id": 63,
+            "company": "ZELLERS",
+            "job_title": "SOFTWARE DEVELOPER",
+            "sender": "Karanveer Panesar <karanveerpanesar04@gmail.com>",
+            "subject": "Next steps for your Software Developer Intern application",
+            "body": "Thank you for your interest in Zellers. We would like to move you\r\nforward to the next stage for the Software Developer Intern role.\r\nPlease reply with your availability for an interview next week.",
+            "status": "next_step"
         }
     ]
 }
